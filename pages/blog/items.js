@@ -1,0 +1,16 @@
+import { Layout } from "@/components/layout";
+import Head from "next/head";
+
+const Items = () => {
+  return (
+    <>
+      <Head>
+        <title>Items</title>
+      </Head>
+      <Layout>
+        <h1>Page Items</h1>
+      </Layout>
+    </>
+  );
+};
+export default Items;

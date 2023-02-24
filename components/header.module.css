@@ -1,0 +1,11 @@
+.header {
+    margin: 20px;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+.link {
+    margin: 15px;
+}
+.active {
+    color: blue;
+}
